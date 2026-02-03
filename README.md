@@ -9,4 +9,6 @@ One thing I found interesting about this article is how the author argues that s
 - The freedom to redistribute copies so you can help others (freedom 2).
 - The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-It's also ironic that they called the licence for free software "copyleft". 
+It's also ironic that they called the licence for free software "copyleft".
+
+**Comment by Max Wu:** Great article, I agree that software freedom is important for the community. 

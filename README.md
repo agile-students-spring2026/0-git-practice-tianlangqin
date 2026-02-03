@@ -1,12 +1,12 @@
-# Agile Software Development
+# Free Software
 
-[Wiki](https://en.wikipedia.org/wiki/Agile_software_development)
-### From the Wiki:
-Agile software development is an umbrella term for approaches to developing software that reflect the values and principles agreed upon by The Agile Alliance, a group of 17 software practitioners, in 2001. As documented in their Manifesto for Agile Software Development, the practitioners value:
+[What is Free Software](https://www.gnu.org/philosophy/free-sw.html)
 
-- Individuals and interactions over processes and tools
-- Working software over comprehensive documentation
-- Customer collaboration over contract negotiation
-- Responding to change over following a plan
+One thing I found interesting about this article is how the author argues that software should not only be a purely commercial product but an ethical instrument of user freedom. The author makes the clear distinction that the "free" in free software means the same as the "free" in "free speech" instead of the one in "free beer". It highlights the importance of transparency and community collaboration in developing software. For a software to qualify as a free software, it must satisfy the below four freedoms: 
 
-The practitioners cite inspiration from new practices at the time including extreme programming, scrum, dynamic systems development method, adaptive software development, and being sympathetic to the need for an alternative to documentation-driven, heavyweight software development processes.
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+It's also ironic that they called the licence for free software "copyleft". 
